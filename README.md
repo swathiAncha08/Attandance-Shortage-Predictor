@@ -142,11 +142,7 @@ B.Tech — Information Technology
 
 GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
 
-## 📄 License
 
-This project is intended for educational and learning purposes. You may add an MIT License if you want to allow others to reuse and modify the code under its terms.
-
----
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
